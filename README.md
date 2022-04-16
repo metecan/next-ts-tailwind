@@ -26,3 +26,5 @@ To learn more about Next.js and Tailwind CSS, take a look at the following resou
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs) - a Tailwind CSS tutorial.
 
 ### All the best for your next project! 🥳
+
+![Zeka3 Team <3](https://res.cloudinary.com/allstar/image/upload/v1650096874/Boilerplate_cnvkgl.png)
